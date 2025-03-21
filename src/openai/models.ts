@@ -27,6 +27,11 @@ export const CHAT_MODELS = {
 		name: "o3-mini",
 		tokenLimit: 200000,
 	},
+	O1: {
+		name: "o1",
+		tokenLimit: 200000,
+	},
+	// Updated O1 model with latest information
 	// GPT4_32K: {
 	// 	name: "gpt-4-32k",
 	// 	tokenLimit: 32768,
