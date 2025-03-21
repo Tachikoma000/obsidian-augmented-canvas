@@ -1,11 +1,11 @@
 {
-	"id": "augmented-canvas",
-	"name": "Augmented Canvas",
+	"id": "augmented-canvas-v2",
+	"name": "Augmented Canvas V2",
 	"version": "0.1.20",
 	"minAppVersion": "1.1.0",
 	"description": "Obsidian Canvas with AI features.",
-	"author": "MetaCorp",
-	"authorUrl": "https://github.com/MetaCorp",
+	"author": "Tachi",
+	"authorUrl": "https://github.com/Tachikoma000/obsidian-augmented-canvas",
 	"fundingUrl": {
 		"Buy Me a Coffee": "https://www.buymeacoffee.com/metacorp"
 	},

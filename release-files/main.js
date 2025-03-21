@@ -3643,6 +3643,10 @@ var CHAT_MODELS = {
   O3_MINI: {
     name: "o3-mini",
     tokenLimit: 2e5
+  },
+  O1: {
+    name: "o1",
+    tokenLimit: 2e5
   }
 };
 var IMAGE_MODELS = {
