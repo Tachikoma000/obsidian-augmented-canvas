@@ -47,6 +47,9 @@ async function getVideoSubtitles(
 	// 	console.error("Error fetching video captions:", error);
 	// 	return [];
 	// }
+	
+	// Return empty array for now since the implementation is commented out
+	return [];
 }
 
 export const runYoutubeCaptions = async (
